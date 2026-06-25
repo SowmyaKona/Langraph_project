@@ -1,0 +1,6 @@
+ticket_id,employee,issue,status
+T101,John,Laptop Issue,Open
+T102,Rahul,VPN Issue,Closed
+T103,Sneha,Password Reset,In Progress
+T104,David,Email Access,Open
+T105,Meena,System Crash,Closed
